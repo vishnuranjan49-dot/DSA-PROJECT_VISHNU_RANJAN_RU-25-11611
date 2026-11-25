@@ -391,7 +391,7 @@ class EmergencyController extends SignalController {
 }
 
 // ---------------------------------------------------------------- Main
-public class TrafficSignalSimulator {
+public class Dsa {
     private static RoadGraph graph = new RoadGraph();
     private static Lane[] lanes = newLanes();
     private static Scanner sc = new Scanner(System.in);
